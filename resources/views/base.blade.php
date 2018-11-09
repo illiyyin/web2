@@ -61,6 +61,14 @@
 						</li>
 					</ul>
             </li>
+			<li>
+                <a href="/file">- File</a>
+					<ul class="main-nav">
+						<li>
+							<a href="/filecreate"> Tambah </a>
+						</li>
+					</ul>
+            </li>
     </aside>
 
     @yield('content') {{-- Semua file konten di bagian ini --}}
